@@ -1,0 +1,7 @@
+{
+  "name": "Taro Anime Streaming",
+  "description": "Stream anime series and movies with AniList tracking and catalog exploration.",
+  "prompt": "An anime streaming platform with AniList tracking and catalog exploration.",
+  "permissions": [],
+  "capabilities": []
+}
